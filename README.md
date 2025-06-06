@@ -1,2 +1,0 @@
-# TIBCOBW6_SOAPWSOverHttpClient
-
